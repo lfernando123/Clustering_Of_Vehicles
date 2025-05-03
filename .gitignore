@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Vertual env
+venv/
+
+# CSV files
+*.csv
